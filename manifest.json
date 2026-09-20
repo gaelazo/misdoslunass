@@ -1,0 +1,13 @@
+{
+  "background_color": "#e02bb9",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "misdoslunas",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "misdoslunas",
+  "start_url": "/",
+  "theme_color": "#b721e9",
+  "id": "misdoslunas-app-1",
+  "description": "mis dos lunas oficial"
+}
